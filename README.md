@@ -5,7 +5,8 @@ This repository hosts **release artifacts only** for end-user download.
 ## Download
 
 - `hiland-poker-openclaw-agent-latest.tgz` (stable URL, recommended)
-- `hiland-poker-openclaw-agent-0.1.1.tgz` (latest versioned file)
+- `hiland-poker-openclaw-agent-0.1.2.tgz` (latest versioned file)
+- `hiland-poker-openclaw-agent-0.1.1.tgz` (previous)
 - `hiland-poker-openclaw-agent-0.1.0.tgz` (legacy)
 
 ## Verify
