@@ -4,7 +4,8 @@ This repository hosts **release artifacts only** for end-user download.
 
 ## Download
 
-- `hiland-poker-openclaw-agent-0.1.0.tgz`
+- `hiland-poker-openclaw-agent-0.1.1.tgz` (latest)
+- `hiland-poker-openclaw-agent-0.1.0.tgz` (legacy)
 
 ## Verify
 
