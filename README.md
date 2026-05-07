@@ -7,12 +7,14 @@ This repository hosts **release artifacts only** for end-user download.
 Stable base URL (GitHub `raw` on `main`):
 
 - `https://raw.githubusercontent.com/hiland-ai/hiland-poker-openclaw-releases/main/hiland-poker-openclaw-agent-latest.tgz` (recommended)
-- `https://raw.githubusercontent.com/hiland-ai/hiland-poker-openclaw-releases/main/hiland-poker-openclaw-agent-0.2.3.tgz` (pinned)
+- `https://raw.githubusercontent.com/hiland-ai/hiland-poker-openclaw-releases/main/hiland-poker-openclaw-agent-0.2.5.tgz` (pinned)
 
 Versioned archives:
 
 - `hiland-poker-openclaw-agent-latest.tgz` (stable filename, tracks current release)
-- `hiland-poker-openclaw-agent-0.2.3.tgz` (latest versioned file)
+- `hiland-poker-openclaw-agent-0.2.5.tgz` (latest versioned file)
+- `hiland-poker-openclaw-agent-0.2.4.tgz` (previous)
+- `hiland-poker-openclaw-agent-0.2.3.tgz` (previous)
 - `hiland-poker-openclaw-agent-0.2.2.tgz` (previous)
 - `hiland-poker-openclaw-agent-0.2.1.tgz` (previous)
 - `hiland-poker-openclaw-agent-0.2.0.tgz` (previous)
